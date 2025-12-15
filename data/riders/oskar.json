@@ -1,0 +1,53 @@
+{
+  "id": "oskar",
+  "name": "Oskar Linnros",
+  "handle": "@oskarlinnros",
+  "avatar": "/images/avatars/oskar-placeholder.jpg",
+  "description": "Inspirerad av Oskar Linnros minimalistiska stil - clean, fokuserad och eftertänksam",
+  "tagline": "Clean & Focused",
+  "vibe": "clean & focused",
+  "disclaimer": "Detta är ett kreativt, fiktivt exempel inspirerat av artistens offentliga image och är INTE en officiell rider. Ingen koppling till eller godkännande av den verkliga artisten.",
+  "riderText": "Bara jag. Behöver inte mycket - en bra espresso, lite mörk choklad, kanske en proteinbar. Inget onödigt. Fokus är viktigt före spelningen. Mellanbugdet är fine.",
+  "parsedRider": {
+    "peopleCount": 1,
+    "budgetTier": 2,
+    "preferences": [
+      "minimalistisk",
+      "kaffe",
+      "mörk choklad",
+      "protein",
+      "focus",
+      "clean",
+      "espresso"
+    ],
+    "allergensAvoid": [],
+    "categoriesWanted": [
+      "kaffe",
+      "choklad",
+      "proteinbar",
+      "vatten"
+    ],
+    "vibeTags": [
+      "clean",
+      "focused",
+      "minimalistisk",
+      "premium",
+      "elegant"
+    ]
+  },
+  "suggestedProducts": [
+    "p005",
+    "p006",
+    "p031",
+    "p019",
+    "p021",
+    "p012",
+    "p030",
+    "p068"
+  ],
+  "signature": {
+    "mustHaves": ["Espresso", "Mörk choklad 85%", "Stilla vatten"],
+    "aesthetic": "Avskalat, svart-vitt, tyst",
+    "playlist": "Tystnad, eller akustiska demos"
+  }
+}

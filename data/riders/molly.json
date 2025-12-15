@@ -1,0 +1,59 @@
+{
+  "id": "molly",
+  "name": "Molly Sandén",
+  "handle": "@mollysanden",
+  "avatar": "/images/avatars/molly-placeholder.jpg",
+  "description": "Inspirerad av Molly Sandéns vibe - värme, glamour och goda vibbar",
+  "tagline": "Warm & Glam",
+  "vibe": "warm & glam",
+  "disclaimer": "Detta är ett kreativt, fiktivt exempel inspirerat av artistens offentliga image och är INTE en officiell rider. Ingen koppling till eller godkännande av den verkliga artisten.",
+  "riderText": "Hej! Jag behöver grejer för mig och två vänner backstage. Vi vill ha mysigt och lite lyxigt - alkoholfritt bubbel är ett måste! Frukt, gärna jordgubbar. Något varmt te för rösten. Veganska alternativ uppskattas. Budget spelar ingen roll, vi vill ha det bästa!",
+  "parsedRider": {
+    "peopleCount": 3,
+    "budgetTier": 3,
+    "preferences": [
+      "alkoholfritt",
+      "vegan",
+      "frukt",
+      "te",
+      "cozy",
+      "lyxig",
+      "warm",
+      "bubbel"
+    ],
+    "allergensAvoid": [],
+    "categoriesWanted": [
+      "alkoholfritt",
+      "frukt",
+      "te",
+      "vego",
+      "snacks"
+    ],
+    "vibeTags": [
+      "warm",
+      "glam",
+      "cozy",
+      "festlig",
+      "lyxig"
+    ]
+  },
+  "suggestedProducts": [
+    "p009",
+    "p010",
+    "p017",
+    "p018",
+    "p044",
+    "p041",
+    "p046",
+    "p047",
+    "p069",
+    "p065",
+    "p011",
+    "p033"
+  ],
+  "signature": {
+    "mustHaves": ["Alkoholfri bubbel", "Färska jordgubbar", "Kamomillte"],
+    "aesthetic": "Romantiskt, varmt ljus, doftljus-stämning",
+    "playlist": "Chill pop, svenska ballader"
+  }
+}

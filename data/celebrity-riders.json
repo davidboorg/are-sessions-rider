@@ -1,0 +1,99 @@
+[
+  {
+    "id": "molly",
+    "name": "Molly Sandén",
+    "handle": "@mollysanden",
+    "description": "Inspirerad av Molly Sandéns vibe",
+    "vibe": "warm & glam 🌟",
+    "disclaimer": "Detta är ett kreativt exempel och inte en officiell rider.",
+    "parsedRider": {
+      "peopleCount": 3,
+      "budgetTier": 3,
+      "preferences": [
+        "alkoholfritt",
+        "vegan",
+        "frukt",
+        "te",
+        "cozy",
+        "lyxig",
+        "warm",
+        "bubbel"
+      ],
+      "allergensAvoid": [],
+      "categoriesWanted": [
+        "alkoholfritt",
+        "frukt",
+        "te",
+        "vego",
+        "snacks"
+      ],
+      "vibeTags": [
+        "warm",
+        "glam",
+        "cozy",
+        "festlig",
+        "lyxig"
+      ]
+    },
+    "suggestedProducts": [
+      "p009",
+      "p010",
+      "p017",
+      "p018",
+      "p044",
+      "p041",
+      "p046",
+      "p047",
+      "p069",
+      "p065",
+      "p011",
+      "p033"
+    ]
+  },
+  {
+    "id": "oskar",
+    "name": "Oskar Linnros",
+    "handle": "@oskarlinnros",
+    "description": "Inspirerad av Oskar Linnros minimalism",
+    "vibe": "clean & focused ☕",
+    "disclaimer": "Detta är ett kreativt exempel och inte en officiell rider.",
+    "parsedRider": {
+      "peopleCount": 1,
+      "budgetTier": 2,
+      "preferences": [
+        "minimalistisk",
+        "kaffe",
+        "mörk choklad",
+        "protein",
+        "focus",
+        "clean",
+        "espresso"
+      ],
+      "allergensAvoid": [],
+      "categoriesWanted": [
+        "kaffe",
+        "choklad",
+        "proteinbar",
+        "vatten"
+      ],
+      "vibeTags": [
+        "clean",
+        "focused",
+        "minimalistisk",
+        "premium",
+        "elegant"
+      ]
+    },
+    "suggestedProducts": [
+      "p005",
+      "p006",
+      "p031",
+      "p019",
+      "p021",
+      "p012",
+      "p030",
+      "p068"
+    ]
+  }
+]
+

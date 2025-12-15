@@ -1,0 +1,29 @@
+{
+  "disclaimers": {
+    "short": "Fiktiv rider - ej officiell",
+    "medium": "Inspirerad av artistens offentliga image. Ej officiell rider.",
+    "full": "Detta är ett kreativt, fiktivt exempel inspirerat av artistens offentliga image och är INTE en officiell rider. Det finns ingen koppling till eller godkännande av den verkliga artisten.",
+    "legal": "Alla 'celebrity riders' i denna app är helt fiktiva och skapade för underhållning. De baseras på artisters allmänt kända offentliga image och preferenser som delats i media, men representerar inte faktiska rider-dokument. Namnen används i parodiskt/satiriskt syfte enligt yttrandefriheten. Om du är artist eller representant och har frågor, kontakta oss."
+  },
+  "labels": {
+    "inspirationBadge": "Inspirerad av",
+    "notOfficial": "Ej officiell",
+    "fictional": "Fiktiv rider",
+    "forEntertainment": "Endast underhållning"
+  },
+  "ui": {
+    "celebrityCardHeader": "Testa en rider inspirerad av...",
+    "celebritySectionTitle": "Celebrity Vibes",
+    "celebritySectionSubtitle": "Prova riders inspirerade av kända artister",
+    "matchPercentageLabel": "Vibe-match",
+    "tryThisRider": "Prova denna rider",
+    "viewProducts": "Se produkter",
+    "disclaimerTooltip": "Klicka för mer info",
+    "loadingCelebrity": "Laddar inspiration...",
+    "noMatch": "Ingen match hittades"
+  },
+  "meta": {
+    "pageTitle": "Celebrity Riders | En Svensk Rider",
+    "pageDescription": "Utforska fiktiva backstage riders inspirerade av svenska artister. Skapa din egen festival-upplevelse!"
+  }
+}
